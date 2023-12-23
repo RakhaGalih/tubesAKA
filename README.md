@@ -6,4 +6,4 @@
 ### Fibonacci Iteratif
 > Fibonacci iteratif adalah sebuah cara untuk menghitung bilangan Fibonacci dengan menggunakan algoritma yang berulang-ulang. Algoritma akan mengulangi proses penjumlahan dua angka sebelumnya sampai mendapatkan nilai yang dinginkan.
 ### Analisis
-> Berdasarkan hasil grafik disamping dapat disimpulkan bahwa algoritma Fibonacci iteratif jauh lebih efisien pada saat running time. Selain itu, meskipun tidak terlihat pada grafik disamping, algoritma Fibonacci iteratif juga dapat meng-input size lebih besar daripada Fibonacci Rekursif.
+> Dapat disimpulkan bahwa algoritma Fibonacci iteratif jauh lebih efisien pada saat running time. Selain itu, meskipun tidak terlihat pada grafik disamping, algoritma Fibonacci iteratif juga dapat meng-input size lebih besar daripada Fibonacci Rekursif.
